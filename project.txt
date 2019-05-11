@@ -3,4 +3,5 @@ Line 2
 this is my new kitten feature! mrow.
 bug fix
 Balloonicorn, Dave was here
+New feature!
 End
